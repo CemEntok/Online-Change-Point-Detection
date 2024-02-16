@@ -2,8 +2,7 @@
 In time-series data, there are some abrupt changes which can indicate a statistical
 alteration of upcoming samples of data. They are called as change-points. The time
 point which these abrupt changes occur can give useful information according to the
-type of data. In order to detect these abrupt changes, change-point detection methods are uti-
-lized. As online change-point detection methods, Area Under the Receiver Operating
+type of data. In order to detect these abrupt changes, change-point detection methods are utilized. As online change-point detection methods, Area Under the Receiver Operating
 Characteristics Curve (AUROC), 2-sample Kolmogorov-Smirnov Test and
 Bayesian Online Change-Point Detection are investigated.  The performances are experimented using simulated
 time-series data including two different experiments; Mean Test and Variance Test.
